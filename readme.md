@@ -1,4 +1,4 @@
-## Awesome JSGame Detona Ralph
+## JOGO DA MEMÓRIA
 
 Bem-vindo ao **Jogo Da Memória**! Neste repositório, você encontrará um jogo divertido baseado no famoso "Jogo da Memória". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
 
